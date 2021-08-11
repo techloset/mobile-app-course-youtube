@@ -3,8 +3,4 @@
 - Youtube https://www.youtube.com/c/naveedtrainer
 - Group for communication and assignments - https://www.facebook.com/groups/learnwithnaveedsarwar
 
-##Contact me
-- https://www.facebook.com/naveedtrainer
-- https://www.instagram.com/naveedtrainer/
-- https://www.linkedin.com/in/naveedtrainer/
-- https://www.youtube.com/c/naveedtrainer
+
